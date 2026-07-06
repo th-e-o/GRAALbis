@@ -216,3 +216,6 @@ __marimo__/
 template_files/
 .quarto/
 **/*.quarto_ipynb
+
+# Ad hoc plot exports from exploration scripts (html outputs already covered by *.html above)
+newplot.png
